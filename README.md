@@ -8,7 +8,6 @@ Student @USAMV
 * ✉️  You can contact me at [incarnate.will@gmail.com](mailto:incarnate.will@gmail.com)
 * 🚀  I'm currently working on [AnimeTerra](https://animeterra.ro)
 * 🧠  I'm learning JS, Node.js, HTML, CSS, PHP, WP
-* 🤝  I'm open to collaborating on anything related to discord bots
 
 <a href="https://www.github.com/IncarnateWill" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/IncarnateWill?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/IncarnateWill" target="_blank" rel="noreferrer"><img
