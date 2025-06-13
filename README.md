@@ -6,7 +6,7 @@ Student @USAMV
 
 * 🌍  I'm based in Romania
 * ✉️  You can contact me at [incarnate.will@gmail.com](mailto:incarnate.will@gmail.com)
-* 🚀  I'm currently working on [Raphtalia](http://dev.raphtalia.fun)
+* 🚀  I'm currently working on [AnimeTerra](https://animeterra.ro)
 * 🧠  I'm learning JS, Node.js, HTML, CSS, PHP, WP
 * 🤝  I'm open to collaborating on anything related to discord bots
 
